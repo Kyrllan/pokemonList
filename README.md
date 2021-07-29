@@ -2,8 +2,8 @@
 
 
 ## Preview
-```
 https://kyrllan.github.io/pokemonList/
+
 
 ## Project setup
 ```
