@@ -2,6 +2,7 @@
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kyrllan.github.io/pokemonList/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
