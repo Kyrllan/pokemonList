@@ -1,4 +1,9 @@
-# pokedex
+# PokeList - a simple pokemon list made with vueJs + bootstrapVue
+
+
+## Preview
+https://kyrllan.github.io/pokemonList/
+
 
 ## Project setup
 ```
